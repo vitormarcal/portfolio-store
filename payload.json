@@ -7,6 +7,13 @@
     "link": "https://huddle-landing-page.vitormarcal.com.br/"
   },
   {
+    "name": "Personal Site",
+    "img": "/images/personal-site.jpg",
+    "description": "Meu site pessoal, feito com Vue.js, Nuxt e Markdown!",
+    "alt": "Desktop design screenshot for project",
+    "link": "#"
+  },
+  {
     "name": "Base Apparel",
     "img": "/images/base-apparel.png",
     "description": "Design to coming soon page",
@@ -26,13 +33,6 @@
     "description": "Fylo data storage component",
     "alt": "Desktop design screenshot for project",
     "link": "https://fylo.vitormarcal.com.br/"
-  },
-  {
-    "name": "Personal Site",
-    "img": "/images/personal-site.jpg",
-    "description": "Meu site pessoal, feito com Vue.js, Nuxt e Markdown!",
-    "alt": "Desktop design screenshot for project",
-    "link": "#"
   },
   {
     "name": "Testimonials",
