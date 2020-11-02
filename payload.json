@@ -1,37 +1,44 @@
 [
   {
-    "name": "Base Apparel",
-    "img": "/images/base-apparel.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "name": "Huddle Landing Page",
+    "img": "/images/huddle-landing-page.jpg",
+    "description": "Huddle landing page with alternating feature blocks.",
     "alt": "Desktop design screenshot for project",
     "link": "https://huddle-landing-page.vitormarcal.com.br/"
   },
   {
+    "name": "Base Apparel",
+    "img": "/images/base-apparel.png",
+    "description": "Design to coming soon page",
+    "alt": "Desktop design screenshot for project",
+    "link": "https://base-apparel.vitormarcal.com.br/"
+  },
+  {
     "name": "Four Card Section",
     "img": "/images/four-card-section.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "description": "Design to four card feature section.",
     "alt": "Desktop design screenshot for project",
-    "link": "#"
+    "link": "https://four-card-feature-section.vitormarcal.vercel.app/"
   },
   {
     "name": "Fylo",
     "img": "/images/fylo.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "description": "Fylo data storage component",
     "alt": "Desktop design screenshot for project",
-    "link": "#"
+    "link": "https://fylo.vitormarcal.com.br/"
   },
   {
     "name": "Personal Site",
     "img": "/images/personal-site.jpg",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "description": "Meu site pessoal, feito com Vue.js, Nuxt e Markdown!",
     "alt": "Desktop design screenshot for project",
     "link": "#"
   },
   {
     "name": "Testimonials",
     "img": "/images/testimonials.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "description": "Bootcamp testimonials slider",
     "alt": "Desktop design screenshot for project",
-    "link": "#"
+    "link": "https://testimonials-slider.vitormarcal.com.br/"
   }
 ]
