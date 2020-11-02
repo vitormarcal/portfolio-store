@@ -8,7 +8,7 @@
   },
   {
     "name": "Personal Site",
-    "img": "/images/personal-site.jpg",
+    "img": "/images/personal-site.png",
     "description": "Meu site pessoal, feito com Vue.js, Nuxt e Markdown!",
     "alt": "Desktop design screenshot for project",
     "link": "#"
