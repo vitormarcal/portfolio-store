@@ -30,7 +30,7 @@
   {
     "name": "Dados abertos da Câmara dos Deputados",
     "img": "/images/dados-abertos.png",
-    "description": "Projeto que disponibiliza uma API para acesso à diversos dados da Câmara. Nesse projeto, aumentei minhas habilidades em design de Apis, Node, Java e SqlServer!",
+    "description": "Projeto que disponibiliza uma API para acesso à diversos dados da Câmara.",
     "alt": "Desktop design screenshot for project",
     "link": "https://dadosabertos.camara.leg.br/"
   },
