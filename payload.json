@@ -21,6 +21,13 @@
     "link": "https://base-apparel.vitormarcal.com.br/"
   },
   {
+    "name": "Busca da Câmara",
+    "img": "/images/busca-camara.png",
+    "description": "Página de busca super rápida da câmara. Nesse projeto, aumentei minhas habilidades em Vue.js, ElasticSearch, Node, Java e SqlServer!",
+    "alt": "Desktop design screenshot for project",
+    "link": "https://www.camara.leg.br/busca-portal/"
+  },
+  {
     "name": "Four Card Section",
     "img": "/images/four-card-section.png",
     "description": "Design to four card feature section.",
