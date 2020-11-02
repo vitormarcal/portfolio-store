@@ -28,6 +28,13 @@
     "link": "https://www.camara.leg.br/busca-portal/"
   },
   {
+    "name": "Dados abertos da Câmara dos Deputados",
+    "img": "/images/dados-abertos.png",
+    "description": "Projeto que disponibiliza uma API para acesso à diversos dados da Câmara. Nesse projeto, aumentei minhas habilidades em design de Apis, Node, Java e SqlServer!",
+    "alt": "Desktop design screenshot for project",
+    "link": "https://dadosabertos.camara.leg.br/"
+  },
+  {
     "name": "Four Card Section",
     "img": "/images/four-card-section.png",
     "description": "Design to four card feature section.",
